@@ -1,3 +1,7 @@
+## v0.3 2026-06-09
+- Created `Summary.html`
+- Added `lang="en"` in html elements
+
 ## v0.2 2026-06-08
 - Added anchor tags (links)
 - Change the name of `index.html` to `TheProject.html`
