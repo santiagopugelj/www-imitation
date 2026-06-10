@@ -1,3 +1,6 @@
+## v0.4 2026-06-10
+- Improved `Summary.html` to more closely match the original page
+
 ## v0.3 2026-06-09
 - Created `Summary.html`
 - Added `lang="en"` in html elements
