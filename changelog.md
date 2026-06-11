@@ -1,3 +1,7 @@
+## v0.5 2026-06-11
+- Created `Policy.html`
+- Improved semantic structure
+
 ## v0.4 2026-06-10
 - Improved `Summary.html` to more closely match the original page
 
