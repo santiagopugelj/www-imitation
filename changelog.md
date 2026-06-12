@@ -1,3 +1,7 @@
+## v0.6 2026-06-12
+- Created News folder
+- Created `9211.html`
+
 ## v0.5 2026-06-11
 - Created `Policy.html`
 - Improved semantic structure
