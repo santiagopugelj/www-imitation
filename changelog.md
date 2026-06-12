@@ -1,3 +1,8 @@
+## v0.7 2026-06-12
+- Added CSS
+- Improved the top margin on all pages to more closely match the original website
+- Improved the user experience to more closely match the original website
+
 ## v0.6 2026-06-12
 - Created News folder
 - Created `9211.html`
