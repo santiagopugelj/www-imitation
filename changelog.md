@@ -1,3 +1,7 @@
+## v0.8 2026-06-13
+- Created FAQ page
+- Added CSS to `9211.html`
+
 ## v0.7 2026-06-12
 - Added CSS
 - Improved the top margin on all pages to more closely match the original website
