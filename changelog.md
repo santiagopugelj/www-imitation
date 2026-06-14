@@ -1,3 +1,9 @@
+# v0.9 2026-06-14
+- Created Top.html
+- Added favicon
+- Added folders to more closely match the original page
+- Improve file system to more closely match the original page
+
 ## v0.8 2026-06-13
 - Created FAQ page
 - Added CSS to `9211.html`
