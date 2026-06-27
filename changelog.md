@@ -1,3 +1,6 @@
+# v0.11 2026-06-27
+- Created `Servers.html`
+
 # v0.10 2026-06-22
 - Created `overview.css`
 - Finish `Overview.html`
